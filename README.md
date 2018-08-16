@@ -1,8 +1,8 @@
-# intro-unity-assignment-4
+# Asteroids
 
 ## Context
 
-This a the start of an Asteroids-like game. In this version, you can move the ship around.
+This a the start of an Asteroids-like game. In this version, you can move the ship while a single asteroid flies around.
 
 ## Controls
 
@@ -11,4 +11,4 @@ This a the start of an Asteroids-like game. In this version, you can move the sh
 
 ## URL
 
-https://cclerger.github.io/intro-unity-assignment-4/
+https://cclerger.github.io/asteroids/
