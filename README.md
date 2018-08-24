@@ -2,7 +2,7 @@
 
 ## Context
 
-This a the start of an Asteroids-like game. In this version, you can move the ship while a single asteroid flies around.
+This a the start of an Asteroids-like game. In this version, you control the ship and your goal is to avoid the asteroids flying around. Your ship gets destroyed if an asteroid hits you!
 
 ## Controls
 
